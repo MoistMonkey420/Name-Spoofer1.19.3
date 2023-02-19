@@ -1,19 +1,16 @@
 # Name-Spoofer
 
-For Forge 1.8.9 
+Any 1.19.3 Server
 
-Change **ANY** text displayed on your screen visually. 
+Change **ANY** text displayed on your screen visually.
 
-*It does not actually change any strings and is client side (If you spoof a 1 character string to 5 character it will actually be 1 character, only it will appears as 5)
 
+This is a server sided exploit, witch means anyone can see it.
+
+You can do and say a lot of stuff and spoof someone else’s name and blame them for it
 
 
 Does not only work on names. Works on: nametags, chest, furnace, inventory, any Minecraft item, other mods, gui, tablist, chat, nicknider name, any text etc.
-
-
-A revamp of fakenames by [ayleafs](https://github.com/ayleafs/fake-names) (Heavily Modified)
-
-### - [Download](https://github.com/TheExploration/Name-Spoofer/releases/download/1.4/name-spoofer-1.4.jar) -
 
 
 ## Commands
